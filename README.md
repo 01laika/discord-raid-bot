@@ -16,5 +16,9 @@ pip install requests
 pip install rich
 ```
 ## Auto-verify
+
 1. get emoji you have to react with from [emojipedia](https://emojipedia.org/)
+
+## -laika#1331 for help
+
 # thx [RustyBalboa](https://github.com/RustyBalboaDev) for helping
