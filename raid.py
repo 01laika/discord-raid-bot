@@ -19,9 +19,9 @@ time.sleep(0.5)
 def main():
 
     tokens = [ #put tokens in-between quoation marks seperated by a comma.
-              "ODA3MjY2MDc5MTY0MjAzMDY3.YB1fTw.697glDx0yQmeC3GWe11gjQw1p5Y", 
-              "ODA3OTY5NDU5ODcxNjc4NDg0.YB_uXw.92py0X5-RYrrgYowC_HnFhAV5Fo",
-              "ODEwMjQwNjIyODA3NzQ0NTU0.YCgyCg.2lOP0pzXylswRBOZed1MhjLzKh0"
+              "", 
+              "",
+              "x"
 ]
 
     start = console.input("[purple]\n(1) raid tool\n(2) leave servers\n(3) token checker\n\n[blue][>>>] Choice: ")
